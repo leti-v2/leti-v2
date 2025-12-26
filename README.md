@@ -6,7 +6,7 @@
 🌱 **Aprendendo a codificar e me divertindo no processo!**  
 ## 🚀 Minha jornada💡 
 - 📚 Atualmente estudando <img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-- 🔍 Explorando o mundo do <i class="devicon-github-original"></i>
+- 🔍 Explorando o mundo do <[i class="devicon-github-original"></i](https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/github/github-original.sv)>
  e projetos open source.
 - ☕ Café e Patinação é meu combustível para aprender!
 
