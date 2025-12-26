@@ -4,7 +4,7 @@
 
 🌱 **Aprendendo a codificar e me divertindo no processo!**  
 ## 🚀 Minha jornada💡 
-- 📚 Atualmente estudando **Javascript** <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+- 📚 Atualmente estudando **Javascript** <img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 
